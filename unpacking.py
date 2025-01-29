@@ -10,8 +10,6 @@ x,y,z=coordinates
 # print(x)
 # print(y)
 
-
-
 # this unpacking we can use for list as well
 
 coordinates=[1,2,3]
